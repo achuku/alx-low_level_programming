@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * main -This is the main function that will be executed when the program is run
+ * main -This is the main functito be executed
  * return: zero (Success)
- * */
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
