@@ -1,9 +1,7 @@
 #include<stdio.h>
 /**
- *
- *  * main -This is the main functito be executed
- *
- *   * Return: Always 0 (Success)
+ * main -This is the main functito be executed
+ * Return: Always 0 (Success)
  *
  */
 int main(void)
