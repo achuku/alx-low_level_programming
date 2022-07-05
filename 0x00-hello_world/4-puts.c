@@ -1,16 +1,10 @@
 #include<stdio.h>
 /**
- * Main function
+ * This is the main function that will be executed when the program is run
+ * Return: Always 0 (Success)
  *
- * main - Entry point
-	*
-	*  *
-	*
-	*   * Return: Always 0 (Success)
-	*
-	*    */
-
-	int main(void)
+ *    */
+int main(void)
 
 {
 
