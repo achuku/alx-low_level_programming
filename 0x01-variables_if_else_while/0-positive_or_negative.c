@@ -1,5 +1,5 @@
-#include <stdlib.h>
-#include <time.h>
+#include<stdlib.h>
+#include<time.h>
 /* more headers goes there */
 /**
  * main -This is the main function be executed
