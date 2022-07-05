@@ -1,8 +1,11 @@
 #include<stdio.h>
 /**
- * main is the function be executed
- * return: always 0 (success)
- */
+ *
+ *  * main -This is the main functito be executed
+ *
+ *   * Return: Always 0 (Success)
+ *
+ *    */
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
