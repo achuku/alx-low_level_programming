@@ -1,6 +1,6 @@
 #include<stdio.h>
 /*
- * main: This is the main function to be executed
+ * main - main -This is the main functito be executed
  * return: always 0 (success)
  */
 int main(void)
