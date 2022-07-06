@@ -18,6 +18,6 @@ printf("and is greater than 5\n");
 else if (last_digit == 0)
 printf("and is 0\n");
 else (last_digit < 6);
-printf("and is less than 6 and not 0\n" n, n % 10);
+printf("and is less than 6 and not 0\n") n, n % 10;
 return (0);
 }
